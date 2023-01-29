@@ -62,31 +62,73 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-gift-img-count-down:hover {
+#gift-img-count-down {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
+}
+
+#gift-img-count-down:hover {
     background-image: url("images/count-down.gif");
+}
+
+#gift-img-five {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
 }
 
 #gift-img-five:hover {
     background-image: url("images/5.gif");
 }
 
+#gift-img-four {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
+}
+
 #gift-img-four:hover {
     background-image: url("images/4.gif");
+}
+
+#gift-img-three {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
 }
 
 #gift-img-three:hover {
     background-image: url("images/3.gif");
 }
 
+#gift-img-two {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
+}
+
 #gift-img-two:hover {
     background-image: url("images/2.gif");
+}
+
+#gift-img-one {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
 }
 
 #gift-img-one:hover {
     background-image: url("images/1.gif");
 }
 
-#gift-img-happy-birthday:hover {
+#gift-img-birth {
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    width: 100vh;
+}
+
+#gift-img-birth:hover {
     background-image: url("images/6.gif");
 }
 
